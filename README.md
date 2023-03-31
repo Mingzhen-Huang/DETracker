@@ -5,6 +5,10 @@ This repository contains the code and data for the following paper:
 
 Tracking Multiple Deformable Objects in Egocentric Videos (CVPR 2023).
 
+
+## DogThruGlasses Dataset
+[[Google Drive]](https://drive.google.com/file/d/1rn81BCQoGwZptMZIJfmND6EqFkowD4WV/view?usp=share_link)
+
 ## Citation
 
 If you find our code or dataset useful, please cite:
