@@ -3,7 +3,7 @@
 
 This repository contains the code and data for the following paper:
 
-Tracking Multiple Deformable Objects in Egocentric Videos (CVPR 2023).
+[Tracking Multiple Deformable Objects in Egocentric Videos (CVPR 2023)](https://mingzhenhuang.com/papers/CVPR23_Detracker.pdf)
 
 
 ## DogThruGlasses Dataset
